@@ -11,7 +11,7 @@ Utilizando o conhecimento em Gramáticas Independentes de Contexto foi possível
 Para complementar foi criado uma pequena aplicação web, à qual o professor pode recorrer para visualizar os recursos, alunos e alguns gráficos com informação interessante. Bem como as perguntas, ou seja qual **recurso** deve utilizar para ensinar um **conceito** a um **aluno**
 
 <p align="center">
-  <img src="https://github.com/luis1ribeiro/SelRA/blob/main/Docs/resultado.png">
+  <img src="https://github.com/luis1ribeiro/SelRA/blob/main/Docs/resultado.jpg">
 </p>
 
 Para correr a web app executar **SelRAWebAppStarter.sh**.
