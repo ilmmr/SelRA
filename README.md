@@ -1,8 +1,8 @@
-# SeiRA
+# SelRA
 ## Projeto Inserido na Unidade Curricular Gramáticas na Compreensão de Software 2020/2021
 ### [Mestrado Integrado em Engenharia Informática na Universidade do Minho](https://miei.di.uminho.pt/)
 
-O **SeiRA** é um projeto, proposto pelo docente [Pedro Rangel Henriques](http://algoritmi.uminho.pt/member-profile/pedro-manuel-rangel-santos-henriques/0000187/) para avaliação na cadeira mencionada. No âmbito do projeto CnE (Computação na Escola), pretende-se desenvolver uma DSL, que será designada SelRA, para apoio ao professor que lhe permita escolher um recurso de aprendizagem (RA) adequado a um dado aluno
+O **SelRA** é um projeto, proposto pelo docente [Pedro Rangel Henriques](http://algoritmi.uminho.pt/member-profile/pedro-manuel-rangel-santos-henriques/0000187/) para avaliação na cadeira mencionada. No âmbito do projeto CnE (Computação na Escola), pretende-se desenvolver uma DSL, que será designada SelRA, para apoio ao professor que lhe permita escolher um recurso de aprendizagem (RA) adequado a um dado aluno
 (Al) para ensino de um determinado conceito de programação (CPrg) de modo a tentar maximizar a eficácia do
 processo de ensino/aprendizagem num curso de Introdução à Programação.
 
@@ -10,8 +10,11 @@ Utilizando o conhecimento em Gramáticas Independentes de Contexto foi possível
 
 Para complementar foi criado uma pequena aplicação web, à qual o professor pode recorrer para visualizar os recursos, alunos e alguns gráficos com informação interessante. Bem como as perguntas, ou seja qual **recurso** deve utilizar para ensinar um **conceito** a um **aluno**
 
+<p align="center">
+  <img src="https://github.com/luis1ribeiro/SelRA/blob/main/Docs/resultado.png">
+</p>
 
-Para correr a web app executar **SeiRAWebAppStarter.sh**.
+Para correr a web app executar **SelRAWebAppStarter.sh**.
 
 ## Linguagem Formal
 ```
@@ -58,7 +61,7 @@ triplos      {
  	}
 ```
 
-### [Relatório](https://github.com/chico2911/SeiRA/tree/master/Docs/Relatório_Grupo10_Projeto1_GCS.pdf)
+### [Relatório](https://github.com/luis1ribeiro/SelRA/blob/main/Docs/Relat%C3%B3rio_Grupo10_Projeto1_GCS.pdf)
 
 ## Development Team
 
